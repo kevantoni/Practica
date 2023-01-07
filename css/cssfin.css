@@ -1,0 +1,24 @@
+.cuerpo{background-color: #474E68; font-family: 'Merriweather', serif;}
+.rk{background-color: #404258;}
+.nav-link:hover{color: greenyellow;}
+.port{background-color: #50577A;}
+.spesi{background-color: #404258;}
+.colado{color: #D3CEDF;}
+.closebtn :hover{background-color: greenyellow;}
+.tomano{height: 60px; width: 500px;}
+.timiento{background-color: #41475c;}
+
+@media (max-width: 375px){
+    .tomano{height: 60px; width: 200px;}
+}
+
+@media (min-width: 375px){
+    .tomano{height: 60px; width: 200px;}
+}
+
+@media (max-width: 768px) {
+    .tomano{height: 60px; width: 200px;}
+    .taka{font-size: 12px;}
+    .takataka{font-size: 16px;}
+}
+
